@@ -20,5 +20,9 @@ This workshop is tested with the following technologies and versions.
 | volaka/ibm-cloud-cli | 1.2.1 |
 | jenkins \(helm-chart\) | 2.5.4 |
 
+## Contribution
 
+If you found errors, please create an issue to [https://github.com/volaka/jenkins-workshop-gitbook](https://github.com/volaka/jenkins-workshop-gitbook) repo.
+
+Thank you!
 
